@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋   
+# Welcome to ScaleUp 👋   
 
 In this project, I have used Async Storage to store email and password on my device.
 
