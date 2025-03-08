@@ -1,14 +1,19 @@
-Welcome to your Expo app 👋
+# Welcome to your Expo app 👋   
+
 In this project, I have used Async Storage to store email and password on my device.
 
-Why Async Storage?
-✅ It allows storing a small amount of data in a key-value pair.
-✅ It is a good choice for storing small, non-sensitive data.
-✅ It provides asynchronous, unencrypted, and persistent key-value storage for React Native apps.
-🔗 Links
-GitHub repository link: https://lnkd.in/dxzCcZ3c
-Dropbox link to download APK: https://lnkd.in/dVvigBaW
+Why Async Storage?   
+✅ It allows storing a small amount of data in a key-value pair.  
+✅ It is a good choice for storing small, non-sensitive data.  
+✅ It provides asynchronous, unencrypted, and persistent key-value storage for React Native apps.  
+
+🔗 Links  
+
+GitHub repository link: https://lnkd.in/dxzCcZ3c  
+Dropbox link to download APK: https://lnkd.in/dVvigBaW  
+
 🚀 Get started
+
 1. Install dependencies
 Run the following command to install all dependencies:
 
