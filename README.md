@@ -37,6 +37,6 @@ npm run reset-project
 ```
 This command will:
 
-✅ Reset your project.
-✅ Move the starter code to the app-example directory.
+✅ Reset your project.  
+✅ Move the starter code to the app-example directory.  
 ✅ Create a blank app directory where you can start developing.
